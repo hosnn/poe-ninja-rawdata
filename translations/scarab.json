@@ -1,0 +1,428 @@
+{
+    "translations": {
+        "Horned Scarab of Preservation": {
+            "name_ko": "보전의 뿔 달린 갑충석",
+            "regex": "보전"
+        },
+        "Horned Scarab of Glittering": {
+            "name_ko": "번쩍임의 뿔 달린 갑충석",
+            "regex": "쩍임"
+        },
+        "Horned Scarab of Awakening": {
+            "name_ko": "각성의 뿔 달린 갑충석",
+            "regex": "각성"
+        },
+        "Ambush Scarab of Containment": {
+            "name_ko": "봉쇄의 매복 갑충석",
+            "regex": "봉쇄"
+        },
+        "Ultimatum Scarab of Catalysing": {
+            "name_ko": "기폭의 결전 갑충석",
+            "regex": "폭의"
+        },
+        "Horned Scarab of Bloodlines": {
+            "name_ko": "혈맹의 뿔 달린 갑충석",
+            "regex": "혈맹"
+        },
+        "Harvest Scarab of Cornucopia": {
+            "name_ko": "풍요의 뿔의 수확 갑충석",
+            "regex": "풍요"
+        },
+        "Horned Scarab of Pandemonium": {
+            "name_ko": "혼란 유발의 뿔 달린 갑충석",
+            "regex": "발의"
+        },
+        "Essence Scarab of Calcification": {
+            "name_ko": "석회화의 에센스 갑충석",
+            "regex": "석회"
+        },
+        "Incursion Scarab of Timelines": {
+            "name_ko": "시간선의 기습 갑충석",
+            "regex": "간선"
+        },
+        "Harvest Scarab of Doubling": {
+            "name_ko": "복제의 수확 갑충석",
+            "regex": "복.*확"
+        },
+        "Domination Scarab of Terrors": {
+            "name_ko": "공포의 지배 갑충석",
+            "regex": "공포"
+        },
+        "Scarab of Wisps": {
+            "name_ko": "도깨비불의 갑충석",
+            "regex": "불.*갑"
+        },
+        "Anarchy Scarab of Gigantification": {
+            "name_ko": "비대화의 혼란 갑충석",
+            "regex": "비대"
+        },
+        "Titanic Scarab of Legend": {
+            "name_ko": "전설의 거대한 갑충석",
+            "regex": "설"
+        },
+        "Blight Scarab of Blooming": {
+            "name_ko": "개화의 역병 갑충석",
+            "regex": "개화"
+        },
+        "Ambush Scarab of Discernment": {
+            "name_ko": "분별의 매복 갑충석",
+            "regex": "분별"
+        },
+        "Ultimatum Scarab of Dueling": {
+            "name_ko": "결투의 결전 갑충석",
+            "regex": "투"
+        },
+        "Harbinger Scarab of Regency": {
+            "name_ko": "섭정의 선구자 갑충석",
+            "regex": "섭정"
+        },
+        "Cartography Scarab of Corruption": {
+            "name_ko": "타락의 지도 제작 갑충석",
+            "regex": "타.*지"
+        },
+        "Legion Scarab of Eternal Conflict": {
+            "name_ko": "영원한 분쟁의 군단 갑충석",
+            "regex": "한.분"
+        },
+        "Breach Scarab of Resonant Cascade": {
+            "name_ko": "공명하는 폭포의 균열 갑충석",
+            "regex": "공명"
+        },
+        "Divination Scarab of Pilfering": {
+            "name_ko": "훔쳐냄의 점술 갑충석",
+            "regex": "훔"
+        },
+        "Harbinger Scarab of Warhoards": {
+            "name_ko": "전쟁비축물의 선구자 갑충석",
+            "regex": "쟁비"
+        },
+        "Cartography Scarab of the Multitude": {
+            "name_ko": "군중의 지도 제작 갑충석",
+            "regex": "중.*제"
+        },
+        "Breach Scarab of Snares": {
+            "name_ko": "올가미의 균열 갑충석",
+            "regex": "올가"
+        },
+        "Essence Scarab of Adaptation": {
+            "name_ko": "적응의 에센스 갑충석",
+            "regex": "적응"
+        },
+        "Ambush Scarab": {
+            "name_ko": "매복 갑충석",
+            "regex": "^매복"
+        },
+        "Horned Scarab of Nemeses": {
+            "name_ko": "천벌의 뿔 달린 갑충석",
+            "regex": "^천"
+        },
+        "Ritual Scarab of Abundance": {
+            "name_ko": "풍부함의 의식 갑충석",
+            "regex": "풍.*식"
+        },
+        "Delirium Scarab of Paranoia": {
+            "name_ko": "편집증의 환영 갑충석",
+            "regex": "^편"
+        },
+        "Cartography Scarab of Risk": {
+            "name_ko": "위험의 지도 제작 갑충석",
+            "regex": "^위"
+        },
+        "Bestiary Scarab of the Herd": {
+            "name_ko": "떼의 야수 도감 갑충석",
+            "regex": "떼"
+        },
+        "Bestiary Scarab of Duplicating": {
+            "name_ko": "복제의 야수 도감 갑충석",
+            "regex": "복.*야"
+        },
+        "Scarab of Radiant Storms": {
+            "name_ko": "찬란한 폭풍의 갑충석",
+            "regex": "찬"
+        },
+        "Abyss Scarab of Profound Depth": {
+            "name_ko": "심원한 깊이의 심연 갑충석",
+            "regex": "심원"
+        },
+        "Divination Scarab of The Cloister": {
+            "name_ko": "회랑의 점술 갑충석",
+            "regex": "회랑"
+        },
+        "Harbinger Scarab": {
+            "name_ko": "선구자 갑충석",
+            "regex": "^선구"
+        },
+        "Horned Scarab of Tradition": {
+            "name_ko": "전통의 뿔 달린 갑충석",
+            "regex": "전통"
+        },
+        "Blight Scarab of Invigoration": {
+            "name_ko": "고무의 역병 갑충석",
+            "regex": "고무"
+        },
+        "Essence Scarab of Ascent": {
+            "name_ko": "상승의 에센스 갑충석",
+            "regex": "상승"
+        },
+        "Titanic Scarab of Treasures": {
+            "name_ko": "보물의 거대한 갑충석",
+            "regex": "^보물"
+        },
+        "Ultimatum Scarab of Bribing": {
+            "name_ko": "매수의 결전 갑충석",
+            "regex": "매수"
+        },
+        "Scarab of Monstrous Lineage": {
+            "name_ko": "기괴한 혈통의 갑충석",
+            "regex": "기괴"
+        },
+        "Domination Scarab of Evolution": {
+            "name_ko": "진화의 지배 갑충석",
+            "regex": "^진화"
+        },
+        "Breach Scarab": {
+            "name_ko": "균열 갑충석",
+            "regex": "^균"
+        },
+        "Influencing Scarab of Conversion": {
+            "name_ko": "전향의 영향력 갑충석",
+            "regex": "전향"
+        },
+        "Scarab of Adversaries": {
+            "name_ko": "적수의 갑충석",
+            "regex": "적수"
+        },
+        "Influencing Scarab of Hordes": {
+            "name_ko": "군단의 영향력 갑충석",
+            "regex": "군.*향"
+        },
+        "Betrayal Scarab of Reinforcements": {
+            "name_ko": "보강의 배신 갑충석",
+            "regex": "보강"
+        },
+        "Ultimatum Scarab of Inscription": {
+            "name_ko": "새김의 결전 갑충석",
+            "regex": "^새"
+        },
+        "Blight Scarab of the Blightheart": {
+            "name_ko": "메마른 심장의 역병 갑충석",
+            "regex": "^메"
+        },
+        "Cartography Scarab of Escalation": {
+            "name_ko": "증대의 지도 제작 갑충석",
+            "regex": "^증"
+        },
+        "Divination Scarab of Plenty": {
+            "name_ko": "풍부함의 점술 갑충석",
+            "regex": "풍.*점"
+        },
+        "Expedition Scarab of Archaeology": {
+            "name_ko": "고고학의 탐험 갑충석",
+            "regex": "고학"
+        },
+        "Legion Scarab of Officers": {
+            "name_ko": "장교의 군단 갑충석",
+            "regex": "장교"
+        },
+        "Essence Scarab": {
+            "name_ko": "에센스 갑충석",
+            "regex": "^에.*갑"
+        },
+        "Ritual Scarab of Selectiveness": {
+            "name_ko": "선택의 의식 갑충석",
+            "regex": "택의"
+        },
+        "Betrayal Scarab of Intelligence": {
+            "name_ko": "지능의 배신 갑충석",
+            "regex": "지능"
+        },
+        "Domination Scarab": {
+            "name_ko": "지배 갑충석",
+            "regex": "^지배"
+        },
+        "Breach Scarab of Lordship": {
+            "name_ko": "지위의 균열 갑충석",
+            "regex": "지위"
+        },
+        "Ambush Scarab of Potency": {
+            "name_ko": "잠재력의 매복 갑충석",
+            "regex": "잠재"
+        },
+        "Anarchy Scarab": {
+            "name_ko": "혼란 갑충석",
+            "regex": "^혼..갑"
+        },
+        "Sulphite Scarab": {
+            "name_ko": "아황산염 갑충석",
+            "regex": "니코"
+        },
+        "Essence Scarab of Stability": {
+            "name_ko": "안정의 에센스 갑충석",
+            "regex": "안.*센"
+        },
+        "Delirium Scarab of Neuroses": {
+            "name_ko": "신경증의 환영 갑충석",
+            "regex": "신경"
+        },
+        "Torment Scarab of Peculiarity": {
+            "name_ko": "기이함의 고통 갑충석",
+            "regex": "기이"
+        },
+        "Harvest Scarab": {
+            "name_ko": "수확 갑충석",
+            "regex": "^수확"
+        },
+        "Legion Scarab": {
+            "name_ko": "군단 갑충석",
+            "regex": "^군..갑"
+        },
+        "Expedition Scarab of Verisium Powder": {
+            "name_ko": "베리시움 화약의 탐험 갑충석",
+            "regex": "베리"
+        },
+        "Beyond Scarab": {
+            "name_ko": "이계 갑충석",
+            "regex": "^이계"
+        },
+        "Incursion Scarab": {
+            "name_ko": "기습 갑충석",
+            "regex": "^기습"
+        },
+        "Legion Scarab of Command": {
+            "name_ko": "지휘의 군단 갑충석",
+            "regex": "지휘"
+        },
+        "Blight Scarab": {
+            "name_ko": "역병 갑충석",
+            "regex": "^역.*갑"
+        },
+        "Incursion Scarab of Invasion": {
+            "name_ko": "침략의 기습 갑충석",
+            "regex": "침.*습"
+        },
+        "Ultimatum Scarab": {
+            "name_ko": "결전 갑충석",
+            "regex": "^결..갑"
+        },
+        "Breach Scarab of Splintering": {
+            "name_ko": "파편의 균열 갑충석",
+            "regex": "편의"
+        },
+        "Sulphite Scarab of Fumes": {
+            "name_ko": "연기의 아황산염 갑충석",
+            "regex": "연기"
+        },
+        "Abyss Scarab": {
+            "name_ko": "심연 갑충석",
+            "regex": "^심연"
+        },
+        "Delirium Scarab": {
+            "name_ko": "환영 갑충석",
+            "regex": "^환"
+        },
+        "Delirium Scarab of Mania": {
+            "name_ko": "광증의 환영 갑충석",
+            "regex": "광증"
+        },
+        "Torment Scarab": {
+            "name_ko": "고통 갑충석",
+            "regex": "^고통"
+        },
+        "Influencing Scarab of the Shaper": {
+            "name_ko": "쉐이퍼의 영향력 갑충석",
+            "regex": "^쉐"
+        },
+        "Abyss Scarab of Multitudes": {
+            "name_ko": "군중의 심연 갑충석",
+            "regex": "군.*심"
+        },
+        "Bestiary Scarab": {
+            "name_ko": "야수 도감 갑충석",
+            "regex": "^야수"
+        },
+        "Expedition Scarab": {
+            "name_ko": "탐험 갑충석",
+            "regex": "^탐험"
+        },
+        "Beyond Scarab of the Invasion": {
+            "name_ko": "침략의 이계 갑충석",
+            "regex": "략.*이"
+        },
+        "Ambush Scarab of Hidden Compartments": {
+            "name_ko": "비밀 공간의 매복 갑충석",
+            "regex": "공간"
+        },
+        "Betrayal Scarab": {
+            "name_ko": "배신 갑충석",
+            "regex": "^배신"
+        },
+        "Influencing Scarab of the Elder": {
+            "name_ko": "엘더의 영향력 갑충석",
+            "regex": "^엘"
+        },
+        "Scarab of Hunted Traitors": {
+            "name_ko": "쫓기는 배신자의 갑충석",
+            "regex": "쫓"
+        },
+        "Abyss Scarab of Edifice": {
+            "name_ko": "건축물의 심연 갑충석",
+            "regex": "건.물"
+        },
+        "Expedition Scarab of Runefinding": {
+            "name_ko": "룬 탐색의 탐험 갑충석",
+            "regex": "룬"
+        },
+        "Beyond Scarab of Haemophilia": {
+            "name_ko": "혈우병의 이계 갑충석",
+            "regex": "혈우"
+        },
+        "Anarchy Scarab of Partnership": {
+            "name_ko": "협력의 혼란 갑충석",
+            "regex": "협력"
+        },
+        "Delirium Scarab of Delusions": {
+            "name_ko": "망상의 환영 갑충석",
+            "regex": "망"
+        },
+        "Incursion Scarab of Champions": {
+            "name_ko": "용사의 기습 갑충석",
+            "regex": "용사"
+        },
+        "Beyond Scarab of Resurgence": {
+            "name_ko": "재기의 이계 갑충석",
+            "regex": "재기"
+        },
+        "Scarab of Stability": {
+            "name_ko": "안정의 갑충석",
+            "regex": "정의.갑"
+        },
+        "Torment Scarab of Possession": {
+            "name_ko": "사로잡힘의 고통 갑충석",
+            "regex": "잡힘"
+        },
+        "Scarab of Divinity": {
+            "name_ko": "신성의 갑충석",
+            "regex": "^신.의"
+        },
+        "Ritual Scarab of Wisps": {
+            "name_ko": "도깨비불의 의식 갑충석",
+            "regex": "불.*식"
+        },
+        "Harbinger Scarab of Obelisks": {
+            "name_ko": "오벨리스크의 선구자 갑충석",
+            "regex": "오벨"
+        },
+        "Domination Scarab of Apparitions": {
+            "name_ko": "유령의 지배 갑충석",
+            "regex": "령의"
+        },
+        "Titanic Scarab": {
+            "name_ko": "거대한 갑충석",
+            "regex": "^거대"
+        },
+        "Scarab of Bisection": {
+            "name_ko": "양단의 갑충석",
+            "regex": "양"
+        }
+    }
+}
