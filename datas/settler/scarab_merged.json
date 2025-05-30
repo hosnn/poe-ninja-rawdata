@@ -76,7 +76,7 @@
             "id": 113830,
             "name": "Incursion Scarab of Timelines",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkluY3Vyc2lvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c651660186/Tier4ScarabIncursion.png",
-            "chaosValue": 37.98,
+            "chaosValue": 37.57,
             "name_ko": "시간선의 기습 갑충석",
             "regex": "간선"
         },
@@ -84,7 +84,7 @@
             "id": 113827,
             "name": "Harvest Scarab of Doubling",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiSGFydmVzdCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/67ebfc1b1f/GreaterScarabHarvest.png",
-            "chaosValue": 32.44,
+            "chaosValue": 32.36,
             "name_ko": "복제의 수확 갑충석",
             "regex": "복.*확"
         },
@@ -92,7 +92,7 @@
             "id": 113761,
             "name": "Domination Scarab of Terrors",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkRvbWluYXRpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2e56a6e5dc/Tier4ScarabDomination.png",
-            "chaosValue": 28.3,
+            "chaosValue": 28.2,
             "name_ko": "공포의 지배 갑충석",
             "regex": "공포"
         },
@@ -100,7 +100,7 @@
             "id": 117971,
             "name": "Scarab of Wisps",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTWlzYzEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b96cb43b23/GreaterScarabMisc1.png",
-            "chaosValue": 26.0,
+            "chaosValue": 26.4,
             "name_ko": "도깨비불의 갑충석",
             "regex": "불.*갑"
         },
@@ -108,7 +108,7 @@
             "id": 113729,
             "name": "Anarchy Scarab of Gigantification",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJBbmFyY2h5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/4165090d5d/NormalScarabAnarchy.png",
-            "chaosValue": 20.44,
+            "chaosValue": 21.0,
             "name_ko": "비대화의 혼란 갑충석",
             "regex": "비대"
         },
@@ -124,7 +124,7 @@
             "id": 113766,
             "name": "Blight Scarab of Blooming",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJsaWdodCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6dde3a6e88/Tier4ScarabBlight.png",
-            "chaosValue": 14.7,
+            "chaosValue": 14.6,
             "name_ko": "개화의 역병 갑충석",
             "regex": "개화"
         },
@@ -164,7 +164,7 @@
             "id": 113875,
             "name": "Legion Scarab of Eternal Conflict",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkxlZ2lvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/05b623a2a7/Tier4ScarabLegion.png",
-            "chaosValue": 11.56,
+            "chaosValue": 11.45,
             "name_ko": "영원한 분쟁의 군단 갑충석",
             "regex": "한.분"
         },
@@ -180,7 +180,7 @@
             "id": 118282,
             "name": "Divination Scarab of Pilfering",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRGl2aW5hdGlvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/8101d1a6e1/GreaterScarabDivination.png",
-            "chaosValue": 10.96,
+            "chaosValue": 10.92,
             "name_ko": "훔쳐냄의 점술 갑충석",
             "regex": "훔"
         },
@@ -329,26 +329,26 @@
             "regex": "^보물"
         },
         {
-            "id": 113745,
-            "name": "Essence Scarab of Ascent",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJFc3NlbmNlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3f918a4115/NormalScarabEssence.png",
-            "chaosValue": 2.9,
-            "name_ko": "상승의 에센스 갑충석",
-            "regex": "상승"
-        },
-        {
             "id": 113732,
             "name": "Ultimatum Scarab of Bribing",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJVbHRpbWF0dW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f7845be27d/NormalScarabUltimatum.png",
-            "chaosValue": 2.85,
+            "chaosValue": 2.84,
             "name_ko": "매수의 결전 갑충석",
             "regex": "매수"
+        },
+        {
+            "id": 113745,
+            "name": "Essence Scarab of Ascent",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJFc3NlbmNlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3f918a4115/NormalScarabEssence.png",
+            "chaosValue": 2.8,
+            "name_ko": "상승의 에센스 갑충석",
+            "regex": "상승"
         },
         {
             "id": 113685,
             "name": "Scarab of Monstrous Lineage",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJNaXNjIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d89cac7adf/LesserScarabMisc.png",
-            "chaosValue": 2.53,
+            "chaosValue": 2.51,
             "name_ko": "기괴한 혈통의 갑충석",
             "regex": "기괴"
         },
@@ -436,17 +436,9 @@
             "id": 113862,
             "name": "Legion Scarab of Officers",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJMZWdpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/0edb9242f1/NormalScarabLegion.png",
-            "chaosValue": 1.96,
+            "chaosValue": 1.93,
             "name_ko": "장교의 군단 갑충석",
             "regex": "장교"
-        },
-        {
-            "id": 113829,
-            "name": "Expedition Scarab of Archaeology",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkV4cGVkaXRpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b4dd63608b/Tier4ScarabExpedition.png",
-            "chaosValue": 1.95,
-            "name_ko": "고고학의 탐험 갑충석",
-            "regex": "고학"
         },
         {
             "id": 113687,
@@ -460,17 +452,9 @@
             "id": 113688,
             "name": "Betrayal Scarab of Intelligence",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJCZXRyYXlhbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/01b158342c/NormalScarabBetrayal.png",
-            "chaosValue": 1.51,
+            "chaosValue": 1.5,
             "name_ko": "지능의 배신 갑충석",
             "regex": "지능"
-        },
-        {
-            "id": 113695,
-            "name": "Ritual Scarab of Selectiveness",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJSaXR1YWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/744a25b9f9/LesserScarabRitual.png",
-            "chaosValue": 1.5,
-            "name_ko": "선택의 의식 갑충석",
-            "regex": "택의"
         },
         {
             "id": 113740,
@@ -481,12 +465,28 @@
             "regex": "^지배"
         },
         {
+            "id": 113695,
+            "name": "Ritual Scarab of Selectiveness",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJSaXR1YWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/744a25b9f9/LesserScarabRitual.png",
+            "chaosValue": 1.47,
+            "name_ko": "선택의 의식 갑충석",
+            "regex": "택의"
+        },
+        {
             "id": 113734,
             "name": "Breach Scarab of Lordship",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiQnJlYWNoIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/6c012fae5c/GreaterScarabBreach.png",
             "chaosValue": 1.3,
             "name_ko": "지위의 균열 갑충석",
             "regex": "지위"
+        },
+        {
+            "id": 113829,
+            "name": "Expedition Scarab of Archaeology",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkV4cGVkaXRpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b4dd63608b/Tier4ScarabExpedition.png",
+            "chaosValue": 1.28,
+            "name_ko": "고고학의 탐험 갑충석",
+            "regex": "고학"
         },
         {
             "id": 113711,
