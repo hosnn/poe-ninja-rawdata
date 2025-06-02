@@ -22,7 +22,7 @@
             "id": 113909,
             "name": "Harvest Scarab of Cornucopia",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkhhcnZlc3QiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/a32654b789/Tier4ScarabHarvest.png",
-            "chaosValue": 180.57
+            "chaosValue": 180.63
         },
         {
             "id": 113782,
@@ -160,7 +160,7 @@
             "id": 117975,
             "name": "Blight Scarab of Invigoration",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYkJsaWdodCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/e74a0932bd/AltTier4ScarabBlight.png",
-            "chaosValue": 16.56
+            "chaosValue": 16.65
         },
         {
             "id": 118273,
@@ -316,13 +316,13 @@
             "id": 121388,
             "name": "Divination Scarab of The Cloister",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJEaXZpbmF0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ac84db8246/LesserScarabDivination.png",
-            "chaosValue": 3.49
+            "chaosValue": 3.5
         },
         {
             "id": 113697,
             "name": "Breach Scarab",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJCcmVhY2giLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/37bd40da6c/LesserScarabBreach.png",
-            "chaosValue": 3.18
+            "chaosValue": 3.16
         },
         {
             "id": 113687,
@@ -577,16 +577,16 @@
             "chaosValue": 2.0
         },
         {
-            "id": 113690,
-            "name": "Essence Scarab of Stability",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRXNzZW5jZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/f476efd29d/GreaterScarabEssence.png",
-            "chaosValue": 1.98
-        },
-        {
             "id": 113694,
             "name": "Harvest Scarab",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJIYXJ2ZXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/0951fed47e/LesserScarabHarvest.png",
             "chaosValue": 1.98
+        },
+        {
+            "id": 113690,
+            "name": "Essence Scarab of Stability",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRXNzZW5jZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/f476efd29d/GreaterScarabEssence.png",
+            "chaosValue": 1.96
         },
         {
             "id": 113838,
@@ -658,7 +658,7 @@
             "id": 113688,
             "name": "Betrayal Scarab of Intelligence",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJCZXRyYXlhbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/01b158342c/NormalScarabBetrayal.png",
-            "chaosValue": 1.25
+            "chaosValue": 1.24
         },
         {
             "id": 113707,
