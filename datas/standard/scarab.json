@@ -34,7 +34,7 @@
             "id": 117971,
             "name": "Scarab of Wisps",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTWlzYzEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b96cb43b23/GreaterScarabMisc1.png",
-            "chaosValue": 123.94
+            "chaosValue": 124.0
         },
         {
             "id": 114031,
@@ -58,7 +58,7 @@
             "id": 113830,
             "name": "Incursion Scarab of Timelines",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkluY3Vyc2lvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c651660186/Tier4ScarabIncursion.png",
-            "chaosValue": 65.6
+            "chaosValue": 65.3
         },
         {
             "id": 113900,
@@ -175,16 +175,16 @@
             "chaosValue": 14.0
         },
         {
-            "id": 113730,
-            "name": "Delirium Scarab of Paranoia",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRGVsaXJpdW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c723c51ba6/GreaterScarabDelirium.png",
-            "chaosValue": 13.0
-        },
-        {
             "id": 113760,
             "name": "Ritual Scarab of Abundance",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiUml0dWFsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/2e76a61fb9/GreaterScarabRitual.png",
             "chaosValue": 13.0
+        },
+        {
+            "id": 113730,
+            "name": "Delirium Scarab of Paranoia",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRGVsaXJpdW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c723c51ba6/GreaterScarabDelirium.png",
+            "chaosValue": 12.5
         },
         {
             "id": 117977,
@@ -421,16 +421,16 @@
             "chaosValue": 2.77
         },
         {
-            "id": 113693,
-            "name": "Sulphite Scarab of Greed",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJTdWxwaGl0ZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/3b6d388b91/NormalScarabSulphite.png",
-            "chaosValue": 2.64
-        },
-        {
             "id": 113834,
             "name": "Betrayal Scarab of Perpetuation",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJldHJheWFsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/85b473f9fb/Tier4ScarabBetrayal.png",
             "chaosValue": 2.64
+        },
+        {
+            "id": 113693,
+            "name": "Sulphite Scarab of Greed",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJTdWxwaGl0ZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/3b6d388b91/NormalScarabSulphite.png",
+            "chaosValue": 2.57
         },
         {
             "id": 113683,
@@ -580,7 +580,7 @@
             "id": 113694,
             "name": "Harvest Scarab",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJIYXJ2ZXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/0951fed47e/LesserScarabHarvest.png",
-            "chaosValue": 1.97
+            "chaosValue": 1.99
         },
         {
             "id": 113838,
@@ -619,6 +619,12 @@
             "chaosValue": 1.5
         },
         {
+            "id": 113702,
+            "name": "Incursion Scarab",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJJbmN1cnNpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/44cc3c3c34/LesserScarabIncursion.png",
+            "chaosValue": 1.5
+        },
+        {
             "id": 113710,
             "name": "Breach Scarab of Splintering",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRHcmVhdGVyU2NhcmFiQnJlYWNoIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/e324a54cdc/AltGreaterScarabBreach.png",
@@ -631,12 +637,6 @@
             "chaosValue": 1.5
         },
         {
-            "id": 113702,
-            "name": "Incursion Scarab",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJJbmN1cnNpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/44cc3c3c34/LesserScarabIncursion.png",
-            "chaosValue": 1.49
-        },
-        {
             "id": 113713,
             "name": "Sulphite Scarab of Fumes",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiU3VscGhpdGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2a3855535e/GreaterScarabSulphite.png",
@@ -646,7 +646,7 @@
             "id": 113733,
             "name": "Bestiary Scarab",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJCZWFzdHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ea23afd0ff/LesserScarabBeasts.png",
-            "chaosValue": 1.45
+            "chaosValue": 1.46
         },
         {
             "id": 113701,
@@ -670,13 +670,13 @@
             "id": 113688,
             "name": "Betrayal Scarab of Intelligence",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJCZXRyYXlhbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/01b158342c/NormalScarabBetrayal.png",
-            "chaosValue": 1.25
+            "chaosValue": 1.24
         },
         {
             "id": 113707,
             "name": "Incursion Scarab of Invasion",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJJbmN1cnNpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/992c5f7548/NormalScarabIncursion.png",
-            "chaosValue": 1.12
+            "chaosValue": 1.15
         },
         {
             "id": 113692,
